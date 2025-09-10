@@ -1,4 +1,4 @@
-<h2 align="left">🚀 João Victor | Debugando a vida, codando o futuro<br>👋 Sobre mim<br><br>🎓 Estudante de Engenharia de Software<br><br>🧑‍💻 Cofundador & CEO da KODYO<br><br>⚡ Apaixonado por criar soluções que fazem a diferença</h2>
+<h2 align="left">🚀 João Victor | Debugando a vida, codando o futuro<br>👋 Sobre mim<br><br>🎓 Estudante de Engenharia de Software<br><br><br>⚡ Apaixonado por criar soluções que fazem a diferença</h2>
 
 ###
 
